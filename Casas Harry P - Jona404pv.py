@@ -34,10 +34,10 @@ print("Puntos de Gryffindor⚔️🦁🔥", griffindor)
 print("Puntos de Hufflepuff🐻💛🌼", hufflepuff)
 print("Puntos de Ravenclaw🧠✨🦅", ravenclaw)
 if slytherin > ravenclaw and slytherin > griffindor and slytherin > hufflepuff:
-    print("Tu casa es Slytherin🐍💚🗡️")
+    print("Tu casa es SLYTHERY🐍💚🗡️")
 elif hufflepuff > ravenclaw and hufflepuff > griffindor and hufflepuff > slytherin:
-    print("Tu casa es Hufflepuff🐻💛🌼")
+    print("Tu casa es HUFFLEPUFF🐻💛🌼")
 elif ravenclaw > hufflepuff and ravenclaw > griffindor and ravenclaw > slytherin:
-    print("Tu casa es Ravenclaw🧠✨🦅")
+    print("Tu casa es RAVENCLAW🧠✨🦅")
 elif griffindor > hufflepuff and griffindor > ravenclaw and griffindor > slytherin:
-    print("Tu casa es Gryffindor⚔️🦁🔥")
+    print("Tu casa es GRYFFINDOR⚔️🦁🔥")
